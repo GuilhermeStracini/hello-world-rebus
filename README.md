@@ -64,12 +64,15 @@ To get started with this repository, you need:
 
 ---
 
-## License
+## Contribution
 
-This project is licensed under the [MIT License](LICENSE).
+Contributions are welcome! If you'd like to enhance this repository, feel free to:
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Submit a pull request with a detailed description.
 
 ---
 
-## Contribution
+## License
 
-Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request.
+This project is licensed under the [MIT License](LICENSE).
